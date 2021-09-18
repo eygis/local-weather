@@ -1,0 +1,14 @@
+body {
+  background: #1264B0;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}
+div {
+  background: grey;
+  width: 25%;
+  margin: auto;
+  border: solid yellow
+}
