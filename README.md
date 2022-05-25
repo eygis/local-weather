@@ -1,3 +1,3 @@
 # Local-Weather
 
-Created with Javascript.
+Created with Javascript and jQuery.
